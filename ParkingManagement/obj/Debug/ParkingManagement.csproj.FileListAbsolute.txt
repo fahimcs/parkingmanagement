@@ -1,0 +1,46 @@
+G:\C#\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe.config
+H:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe.config
+H:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe
+H:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.pdb
+H:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.frmAdmin.resources
+H:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.frmlevel1.resources
+H:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.frmmainmenu.resources
+H:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.frmlogin.resources
+H:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.frmparkingcontrol.resources
+H:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.frmparkingrecord.resources
+H:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Properties.Resources.resources
+H:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.GenerateResource.Cache
+H:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.exe
+H:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.pdb
+D:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe.config
+D:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.exe
+D:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.pdb
+D:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csprojResolveAssemblyReference.cache
+D:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.frmAdmin.resources
+D:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.frmlevel1.resources
+D:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.frmmainmenu.resources
+D:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.frmlogin.resources
+D:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.frmparkingcontrol.resources
+D:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.frmparkingrecord.resources
+D:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Properties.Resources.resources
+D:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.GenerateResource.Cache
+D:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe
+D:\PARKING MANAGEMENT SYSTEM\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.pdb
+C:\Users\user\Desktop\ParkingManagement-20171208T105822Z-001\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe.config
+C:\Users\user\Desktop\ParkingManagement-20171208T105822Z-001\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.exe
+C:\Users\user\Desktop\ParkingManagement-20171208T105822Z-001\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.pdb
+C:\Users\user\Desktop\ParkingManagement-20171208T105822Z-001\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe
+C:\Users\user\Desktop\ParkingManagement-20171208T105822Z-001\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.pdb
+C:\Users\user\Desktop\ParkingManagement-20171208T105822Z-001\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ParkingManagement-20171208T105822Z-001\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.frmAdmin.resources
+C:\Users\user\Desktop\ParkingManagement-20171208T105822Z-001\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.frmlevel1.resources
+C:\Users\user\Desktop\ParkingManagement-20171208T105822Z-001\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.frmmainmenu.resources
+C:\Users\user\Desktop\ParkingManagement-20171208T105822Z-001\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.frmlogin.resources
+C:\Users\user\Desktop\ParkingManagement-20171208T105822Z-001\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.frmparkingcontrol.resources
+C:\Users\user\Desktop\ParkingManagement-20171208T105822Z-001\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.frmparkingrecord.resources
+C:\Users\user\Desktop\ParkingManagement-20171208T105822Z-001\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.Properties.Resources.resources
+C:\Users\user\Desktop\ParkingManagement-20171208T105822Z-001\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ParkingManagement-20171208T105822Z-001\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.frmmainmenuuser.resources
+F:\ParkingManagement\ParkingManagement\bin\Debug\ParkingManagement.exe.config
+F:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.exe
+F:\ParkingManagement\ParkingManagement\obj\Debug\ParkingManagement.pdb
